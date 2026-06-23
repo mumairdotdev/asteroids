@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 game_state.jsonl
+game_events.jsonl
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
